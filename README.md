@@ -1,5 +1,10 @@
 # NOVA-Prime
- beta theme 
+ beta theme
+##key features
+ * bootanimation 
+ * whatapp theme
+ * sttings theme
+ * alarm tone
  
 **help in develpoment by contribution** 
 
