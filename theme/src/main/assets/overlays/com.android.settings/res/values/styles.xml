@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+   
+   
+
+
+    <style name="Theme.SettingsBase" parent="@*android:style/Theme.Material" >
+        <item name="android:colorBackground">#00000000</item>
+        <item name="android:colorForeground">#00000000</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:colorPrimary">#ff00c2ff</item>
+        <item name="android:navigationBarColor">#ff2c2d30</item>
+        <item name="android:colorPrimaryDark">#ff2ea2fd</item>
+        <item name="android:colorAccent">#ff00c2ff</item>
+		<item name="android:textColorPrimary">#ffffffff</item>
+
+
+
+         
+    </style>
+
+     <style name="Theme.ActionBar" parent="@*android:style/Widget.Material.Light.ActionBar.Solid">
+        <item name="android:background">#ff2ea2fd</item>
+
+    </style>
+
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:colorAccent">@color/white</item>
+    </style>
+
+
+    <style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">@color/white</item>
+    </style>
+
+    </resources>
