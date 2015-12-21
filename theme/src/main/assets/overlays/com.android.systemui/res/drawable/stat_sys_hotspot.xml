@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="3500" android:drawable="@drawable/stat_sys_hotspot1" />
+    <item android:duration="50" android:drawable="@drawable/stat_sys_hotspot2" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot3" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot4" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot5" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot6" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot7" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot8" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot9" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot10" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot11" />
+	<item android:duration="170" android:drawable="@drawable/stat_sys_hotspot12" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot11" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot10" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot9" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot8" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot7" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot6" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot5" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot4" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot3" />
+	<item android:duration="50" android:drawable="@drawable/stat_sys_hotspot2" />	
+</animation-list>

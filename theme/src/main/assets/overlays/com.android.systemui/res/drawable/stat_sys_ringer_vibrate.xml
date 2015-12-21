@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="3000" android:drawable="@drawable/stat_sys_ringer_vibrate1" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate2" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate3" />
+    <item android:duration="80" android:drawable="@drawable/stat_sys_ringer_vibrate4" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate5" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate6" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate7" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate8" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate9" />
+    <item android:duration="80" android:drawable="@drawable/stat_sys_ringer_vibrate10" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate11" />
+    <item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate12" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate11" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate10" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate9" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate8" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate7" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate6" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate5" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate4" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate3" />
+	<item android:duration="60" android:drawable="@drawable/stat_sys_ringer_vibrate2" />
+</animation-list>
